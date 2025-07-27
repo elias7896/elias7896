@@ -10,7 +10,10 @@
   - Power BI
 - 👨‍💼 Tengo experiencia laboral en automatizacion de procesos con ***n8n***
 - 👯 Mis hobbies: 🏍 Bikes 🏍 / 👨‍💻 Programacion 👨‍💻 / 📈 Data 📉
-- 📫 Podes contactarme por: <a href="eliasmedina267@gmail.com">eliasmedina267@gmail.com</a>
+- 📫 Podes contactarme por:
+   - Mail: <a href="eliasmedina267@gmail.com">eliasmedina267@gmail.com</a>
+   - LinkedIn: <a href="https://www.linkedin.com/in/elias-medina-/">Elias Medina</a>
+ 
 
 ## 🛠 Mis habilidades
 
@@ -36,14 +39,6 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src= "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-
-</span>
-
-## 📲 Contacto
-
-<a href= "https://www.linkedin.com/in/elias-medina-/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 </span>
 
