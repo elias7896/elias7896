@@ -49,11 +49,17 @@
 <a href="mailto:eliasmedina267@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-### 🚀 &nbsp;Proyectos
+</span>
+
+## 🚀Proyectos
 
 #### [emoji, titulo](link)
 - explain
 - **Technologies:** test
+
+</span>
+
+##
 
 <h2>GitHub stats:</h2> 
 
