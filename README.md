@@ -12,7 +12,7 @@
 - 👯 Mis hobbies: 🏍 Bikes 🏍 / 👨‍💻 Programacion 👨‍💻 / 📈 Data 📉
 - 📫 Podes contactarme por: <a href="eliasmedina267@gmail">eliasmedina267@gmail.com</a>
 
-## Mis habilidades
+## 🛠 Mis habilidades
 
 <h4> Tecnologias </h4>
 <span> 
@@ -37,27 +37,24 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src= "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
-
-
 </span>
 
-## Contacto
+## 📲 Contacto
 
 <a href= "https://www.linkedin.com/in/elias-medina-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:eliasmedina267@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </span>
 
-## Proyectos
+## 🚀 Proyectos
 
 #### [emoji, titulo](link)
 - explain
 - **Technologies:** test
-
-</span>
 
 ##
 
