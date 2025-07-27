@@ -12,7 +12,7 @@
 - 👯 Mis hobbies: 🏍 Bikes 🏍 / 👨‍💻 Programacion 👨‍💻 / 📈 Data 📉
 - 📫 Podes contactarme por:
    - Mail: <a href="eliasmedina267@gmail.com">eliasmedina267@gmail.com</a>
-   - LinkedIn: <a href="https://www.linkedin.com/in/elias-medina-/">Elias Medina</a>
+   - LinkedIn: <a href="https://www.linkedin.com/in/elias-medina-/">linkedin.com/in/elias-medina-/<a>
  
 
 ## 🛠 Mis habilidades
