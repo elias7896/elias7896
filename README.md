@@ -48,8 +48,6 @@
 - explain
 - **Technologies:** test
 
-##
-
 <h2>📊 GitHub Stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=elias7896&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/elias7896)
