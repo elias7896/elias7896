@@ -51,7 +51,7 @@
 
 </span>
 
-## 🚀Proyectos
+## Proyectos
 
 #### [emoji, titulo](link)
 - explain
