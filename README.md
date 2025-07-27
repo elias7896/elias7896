@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
 
-🎓 Soy estudiante de Ciencia de Datos en la Universidad de Buenos Aires. Me apasionan los datos, por eso cada dia busco seguir aprendiendo y fortaleciendo mis habilidades en limpieza de datos, creacion de dashboards interactivos, construccion de pipelines, procesos ETL, etc.
+🎓 Soy estudiante de Ciencia de Datos en la Universidad de Buenos Aires. Cada dia busco seguir aprendiendo y fortaleciendo mis habilidades en limpieza de datos, creacion de dashboards interactivos, construccion de pipelines, procesos ETL, etc. Me apasionan mucho los datos! 😋
 
 - 🌱 Actualmente estoy aprendiendo . . .
   - Power BI
