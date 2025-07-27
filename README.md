@@ -10,7 +10,7 @@
   - Power BI
 - 👨‍💼 Tengo experiencia laboral en automatizacion de procesos con ***n8n***
 - 👯 Mis hobbies: 🏍 Bikes 🏍 / 👨‍💻 Programacion 👨‍💻 / 📈 Data 📉
-- 📫 Podes contactarme por: <a href="eliasmedina267@gmail">eliasmedina267@gmail.com</a>
+- 📫 Podes contactarme por: <a href="eliasmedina267@gmail.com">eliasmedina267@gmail.com</a>
 
 ## 🛠 Mis habilidades
 
